@@ -35,7 +35,7 @@ columnTitle 在范围 ["A", "FXSHRXW"] 内
 出处：
 
 https://edu.csdn.net/practice/28091685
-**/
+*/
 
 // This method needs to know ascii, not recommended.
 #include <string>
