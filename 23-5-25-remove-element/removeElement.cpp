@@ -83,5 +83,5 @@ int main () {
     for (int i = 0; i<4; i++) vec.push_back(array_copy[i]); 
     int b = ss.removeElement_usevec (vec, remove_num);
     cout<<" ++++++ removeElement_usevec = "<<b<<endl; // ++++++ removeElement_usearr = 2
-    
+    return 0;
 }
